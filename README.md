@@ -1,6 +1,6 @@
 # <p align="center">Hi there, I am Debarun 👋<p>
 
-##About Me:
+## About Me:
 
 - 🔭 I’m currently working on Github
 - 🌱 I’m currently learning Blockchain
